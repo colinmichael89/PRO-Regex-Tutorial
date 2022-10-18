@@ -24,6 +24,7 @@ This Regex searches for a match of the various valid forms of phone numbers that
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 - [Resources](#resources)
+- [Author](#author)
 
 ## Regex Components
 
@@ -207,7 +208,7 @@ Our Regex does not use any lookarounds.
 
 - [javascript.info](https://javascript.info/regexp)    
 - [regexr.com](https://javascript.info/regexp)    
-
+- [youtube.com](https://www.youtube.com/watch?v=rhzKDrUiJVk)
 
 ## Author
 
